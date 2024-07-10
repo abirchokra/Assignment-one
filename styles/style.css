@@ -11,7 +11,6 @@ head{
 .head-section{
     width: 1440px;
     height:80px ;
-
     margin-left: auto;
     margin-right: auto;
   
@@ -55,8 +54,6 @@ head{
 }
 .banner{
     background-image: url('../assets/Hero-bg.png');
-    /* background-size: cover; */
-    width:1440px;
     height: 652px;
     margin-bottom: 90px;
     margin-left: auto;
@@ -102,13 +99,10 @@ head{
     margin-top: 20px;
   
 }
-/* banner done  */
-
 .main-one{
     max-width: 1140px;
     height: 1200px;
     margin: 0 auto;
-    /* border: 2px solid red; */
     background-color:rgba(13, 19, 33, 0.02); 
     margin-bottom: 80px;
   
@@ -116,7 +110,6 @@ head{
 .reason-for-developer{
     width: 946px;
     height: 1233px;
-    /* border: 2px solid red; */
     margin:80px;
     margin-right: auto;
     margin-left: auto;
@@ -124,7 +117,6 @@ head{
 .container-one {
     text-align: center;
     margin: 45px;
-    /* border: 2px solid red; */
     width: 852px;
     height: 140px;
     padding-top: 20px;
@@ -148,10 +140,8 @@ head{
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
-    
     justify-content: space-between;
     gap: 30px;
-    /* border: 1px solid red; */
     border-radius: 16px;
     background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     margin-bottom: 32px;
@@ -204,7 +194,6 @@ head{
     
     justify-content: space-between;
     gap: 30px;
-    /* border: 1px solid red; */
     border-radius: 16px;
     background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     margin-bottom: 32px;
@@ -230,10 +219,8 @@ head{
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
-    
     justify-content: space-between;
     gap: 30px;
-    /* border: 1px solid red; */
     border-radius: 16px;
     background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 
@@ -254,8 +241,6 @@ head{
     opacity: 0.7;
 
 }
-
-/* boom  */
 
 .Inspiration-section{
     width: 1140px;
@@ -309,7 +294,6 @@ head{
     border-radius: 16px;
 }
 
-/* booom  */
 
 .target{
     width: 1140px;
@@ -408,6 +392,7 @@ head{
     text-align: left;
     margin-bottom: 10px;
     opacity: 0.7;
+    margin-bottom: 50px;
 }
 #target-items-inside a{
     color: rgb(13, 19, 33);
@@ -415,8 +400,7 @@ head{
     font-size: 16px;
     font-weight: 700;
     text-align: left;
-    position: absolute;
-    margin-top: 30px;
+    
 }
 .target-two{
     width: 1140px;
@@ -590,7 +574,7 @@ head{
     opacity: 0.7;
     margin-bottom: 40px;
 }
-/* boooom  */
+
 
 .support{
     border-radius: 16px;
@@ -679,7 +663,7 @@ head{
     cursor: pointer;
    
 }
-/* booom  */
+
 #footer-section{
     width: 1440;
     height: 100px;
@@ -724,4 +708,3 @@ head{
     height: 36px;
     margin-right: 10px;
 }
-/* booom  */
