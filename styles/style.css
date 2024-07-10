@@ -407,6 +407,7 @@ head{
     font-weight: 400;
     text-align: left;
     margin-bottom: 10px;
+    opacity: 0.7;
 }
 #target-items-inside a{
     color: rgb(13, 19, 33);
@@ -414,6 +415,8 @@ head{
     font-size: 16px;
     font-weight: 700;
     text-align: left;
+    position: absolute;
+    margin-top: 30px;
 }
 .target-two{
     width: 1140px;
@@ -587,12 +590,6 @@ head{
     opacity: 0.7;
     margin-bottom: 40px;
 }
-
-
-
-
-
-
 /* boooom  */
 
 .support{
@@ -704,7 +701,7 @@ head{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
- 
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
     
